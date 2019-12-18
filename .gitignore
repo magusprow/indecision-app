@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/react
 # Edit at https://www.gitignore.io/?templates=react
@@ -22,4 +23,30 @@ psd
 thumb
 sketch
 
+=======
+
+# Created by https://www.gitignore.io/api/react
+# Edit at https://www.gitignore.io/?templates=react
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+public/dist/
+bower_componets
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
+*.sublime*
+
+psd
+thumb
+sketch
+
+>>>>>>> 82334206699375f3cf82229cf768cd61a7fa153d
 # End of https://www.gitignore.io/api/react
